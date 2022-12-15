@@ -1,0 +1,16 @@
+t=10
+print(t)
+type(t)
+h=10.5
+print(h)
+type(h)
+e="theli"
+print(e)
+type(e)
+print(type(t))
+print(type(h))
+print(type(e))
+print(type(t),(h),(e))
+l=["thelma.relindis,richard,cla,sam"]
+print(l)
+print(type(l))
